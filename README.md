@@ -60,12 +60,6 @@ To get a local copy up and running, follow these simple steps:
 
    Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-### Acknowledgments
-
- 1.  Inspiration: Bootstrap
- 2.  Icons: Bootstrap Icons
-
- 
 ### Notes:
 
 - Adjust the file paths and content according to your actual project structure and requirements.
@@ -73,4 +67,12 @@ To get a local copy up and running, follow these simple steps:
 - Update the README.md with accurate information about your project, including any specific instructions for setup or usage.
 
 By following this structure and README template, you'll create a well-organized and informative repository for your Full Stack PHP project on GitHub.
-   
+
+
+### Acknowledgments
+
+ 1.  Inspiration: Bootstrap
+ 2.  Icons: Bootstrap Icons
+
+ 
+
